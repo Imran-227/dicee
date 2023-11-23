@@ -1,6 +1,7 @@
 # dicee
+![Screenshot_20231029-212221](https://github.com/Imran-227/dicee/assets/128098964/b963f8e1-aab1-40e1-ae9a-fdbf018c0a01)
 
-A new Flutter project.
+A new Flutter project For testing Tape Detection.
 
 ## Getting Started
 
